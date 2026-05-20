@@ -1,0 +1,2 @@
+cluster_name = "choose a name for your cluster"
+kubeconfig_path = "path to kubeconfig file"
